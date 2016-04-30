@@ -1,0 +1,21 @@
+Punto 1:
+a)V, b)F, c)F, d)V, e)F, f)V, g)V, h)V, i)F, j)V
+
+Punto 2:
+a) 1-V, 2-F, 3-V
+
+b) A-AritmeticException		B-ArrayIndexOutOfBoundException
+   C-StringIndexOutOfBoundException	D-ClassCastException  
+   E-NullPointerException 	F-AritmeticException
+
+Punto 3:
+
+a) Perform Person's tasks
+   Invoke Employee's
+   Perform Employee's tasks
+   Perform Faculty's tasks
+
+b) A)F, B)F, C)V
+	
+		 
+ 
